@@ -1,0 +1,22 @@
+Fazer donload de pasta do Github para a máquina
+
+git clone https://github.com/RodrigoCheli/DSA-Projeto1.git
+
+Adicionar ao git, pasta existente na máquina
+
+git add GitComandos
+
+
+Primeira vez que executar o commit
+git config --global user.name "Rodrigo Cheli"
+git --global user. email rodrigoecherry@gmail.com
+
+
+Prepara as informações para subir ao github
+git commit -m "Arquido de informações sobre comando github"
+
+Envia arquivos para o github
+git push origin master
+
+Puxa arquivos do github
+git pull origin master
