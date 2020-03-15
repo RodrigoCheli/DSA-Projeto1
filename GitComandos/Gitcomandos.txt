@@ -20,3 +20,29 @@ git push origin master
 
 Puxa arquivos do github
 git pull origin master
+
+
+Instalando pacotes básicos
+install.packages('caret')
+install.packages('randomForest')
+install.packages('ggplot2')
+install.packages('dplyr')
+install.packages('devtools')
+
+Carrgar o pacote
+library(carret)
+library(randomForest)
+library(ggplot2)
+library(dplyr)
+library(devtools)
+
+
+Descarregar pacote
+detach(package:ggplot2)
+
+
+######################################
+#install.packages("sos")             #
+#library(sos)                        #
+#findFn("funcao que quer detalhes")  #
+######################################
