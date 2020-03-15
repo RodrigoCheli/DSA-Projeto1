@@ -10,7 +10,7 @@ setwd("C:/FCD/BigDataRAzure/Cap02")
 getwd()
 
 # Exercício 1 - Pesquise pela função que permite listar todos os arquivo no diretório de trabalho
-
+teste
 # Exercício 2 - Crie um dataframe a partir de 3 vetores: um de caracteres, um lógico e um de números
 
 # Exercício 3 - Considere o vetor abaixo. 
