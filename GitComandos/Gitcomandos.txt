@@ -46,3 +46,8 @@ detach(package:ggplot2)
 #library(sos)                        #
 #findFn("funcao que quer detalhes")  #
 ######################################
+help(mean)
+help.search('nome da função')
+??nome da funçao
+RSiteSearch('matplot')
+example('matplot')
